@@ -1,7 +1,7 @@
 <p align="center">
     <img width="150px" src="https://openbankingbrasil.org.br/wp-content/themes/openbank//assets/img/logo-white.png" align="center" alt="Open Banking Brasil" />
     <p align="center">
-        Repositório responsável em listar informações relevantes sobre o processo de onboarding das Instituições Iniciadoras de Transação de Pagamento.
+        Repositório responsável por disponibilizar informações relevantes relativas ao processo de onboarding das instituições Iniciadoras de Transação de Pagamento (ITPs).
     </p>
 </p>
 
