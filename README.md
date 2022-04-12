@@ -21,6 +21,7 @@ Lista de instituições que concluiram o processo de onboarding de Iniciadores d
 
 
 ## Cartilha de _onboarding_
+Para fazer com que sua instituição se torne uma ITP habilitada no Open Banking Brasil, baixe a Cartilha e siga o passo a passo:
 
 [![Download Cartilha](https://user-images.githubusercontent.com/66042/162828193-d23e0e3f-18f3-4d3d-a8a3-87af1ab48647.png)](https://github.com/OpenBanking-Brasil/onboarding_itp/raw/main/cartilhas/Cartilha_Onboarding_ITP_v5.pdf)
 
