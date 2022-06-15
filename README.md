@@ -17,6 +17,7 @@ Lista de instituições que concluiram o processo de onboarding de Iniciadores d
 | <img src="https://www.bb.com.br/docs/pub/inst/img/LogoBB.svg" width=32/> | Banco do Brasil | 04/04/2022 | [#144](https://mailchi.mp/a132af84bc97/open-banking-informa-8867378?e=f7f49bbeb8) |
 | <img src="https://banking-public-prd.s3.sa-east-1.amazonaws.com/open-finance/logo/btgbanking/btgbanking.svg" width=32/> |  Banco BTG Pactual | 07/04/2022 | [#148](https://mailchi.mp/ea8bed419fa6/open-banking-informa-8868886?e=68adeebdac) |
 | <img src="https://user-images.githubusercontent.com/66042/165420657-3f991439-7c7b-4438-b191-02a1db2efdd1.png" width=32/> |  Itaú Unibanco | 26/04/2022 | [#156](https://mailchi.mp/1561ed8f37ef/open-banking-informa-8873274?e=68adeebdac) |
+| <img src="https://user-images.githubusercontent.com/66042/173893815-bf748bce-092f-42df-877c-1e247ab99b1c.png" width=32/> |  Gerencianet | 08/06/2022 | [#175](https://mailchi.mp/65def4454f1e/open-banking-informa-9079273?e=49b5127a4f) |
 
 
 
