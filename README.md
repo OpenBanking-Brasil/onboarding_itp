@@ -22,6 +22,8 @@ Lista de instituições que concluiram o processo de onboarding de Iniciadores d
 | <img src="https://user-images.githubusercontent.com/66042/186519749-4c1dadc5-79e5-4fa0-ae60-d5505c095cb2.png" width=32/> |  Celcoin | 19/08/2022 | [#209](https://mailchi.mp/d58792507e02/open-banking-informa-9161017) |
 | <img src="https://user-images.githubusercontent.com/66042/186519763-b5e72b77-ae11-48ba-b19d-3d23bb43c455.png" width=32/> |  Parati | 19/08/2022 | [#209](https://mailchi.mp/d58792507e02/open-banking-informa-9161017) |
 | <img src="https://user-images.githubusercontent.com/66042/186519770-a54f5f14-1161-4f4a-8a95-e56b3ab4070a.png" width=32/> |  Inter | 24/08/2022 | [#212](https://mailchi.mp/849907f0bb74/open-banking-informa-9161349) |
+| <img src="https://user-images.githubusercontent.com/66042/187509426-e6a6a665-bebd-4169-80f3-309d8fb4ee31.png" width=32/> |  Quanto Network | 30/08/2022 | [#216](https://mailchi.mp/05fe5319c8a6/open-banking-informa-9162053) |
+
 
 
 ## Cartilha de _onboarding_
