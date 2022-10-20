@@ -10,7 +10,7 @@
 
 
 ## Lista de instituições publicadas
-Lista de instituições que concluiram o processo de onboarding de Iniciadores de Transação de Pagamento (ITP) segundo as regras expostas na [cartilha](https://github.com/OpenBanking-Brasil/onboarding_itp/raw/main/cartilhas/Cartilha_Onboarding_ITP_v10.pdf).
+Lista de instituições que concluiram o processo de onboarding de Iniciadores de Transação de Pagamento (ITP) segundo as regras expostas na [cartilha](https://github.com/OpenBanking-Brasil/onboarding_itp/raw/main/cartilhas/Cartilha_Onboarding_ITP_v11.pdf).
 
 | | Instituição                            | Publicação  | Informa | 
 |-|----------------------------------------|-------------|---------|
@@ -25,12 +25,16 @@ Lista de instituições que concluiram o processo de onboarding de Iniciadores d
 | <img src="https://user-images.githubusercontent.com/66042/187509426-e6a6a665-bebd-4169-80f3-309d8fb4ee31.png" width=32/> |  Quanto  | 30/08/2022 | [#216](https://mailchi.mp/05fe5319c8a6/open-banking-informa-9162053) |
 | <img src="https://user-images.githubusercontent.com/66042/190466199-27480f44-91a5-473b-b3b7-e69263f9829a.png" width=32/> |  Sicoob  | 13/09/2022 | [#225](https://mailchi.mp/05fe5319c8a6/open-banking-informa-9162053) |
 | <img src="https://user-images.githubusercontent.com/66042/190466827-9047e8fb-1416-4f67-9cf9-c7626e780c13.png" width=32/> |  Hub Pagamentos | 13/09/2022 | [#226](https://mailchi.mp/5a65134f94b2/open-banking-informa-9178781) |
+| <img src="https://user-images.githubusercontent.com/66042/196992530-11f79518-89a4-46fd-a000-59f9b30a049c.png" width=32/> |  Banco Mercantil do Brasil | 29/09/2022 | [#237](https://mailchi.mp/cddc41a08253/open-banking-informa-9180453) |
+| <img src="https://user-images.githubusercontent.com/66042/196992517-dc86a2b2-a462-4b7a-9c46-a5ef16314848.png" width=32/> |  Banco Bradesco | 04/10/2022 | [#249](https://mailchi.mp/991d6f7113a4/open-banking-informa-9181993) |
+| <img src="https://user-images.githubusercontent.com/66042/196992504-17570fc1-3376-4eba-ab4e-687163726222.png" width=32/> |  Banco XP | 13/10/2022 | [#254](https://mailchi.mp/412d3b0f89f2/open-banking-informa-9183401) |
+
 
 
 
 ## Cartilha de _onboarding_
 Para fazer com que sua instituição se torne uma ITP habilitada no Open Banking Brasil, baixe a Cartilha e siga o passo a passo:
 
-[![Download Cartilha](https://user-images.githubusercontent.com/66042/162828193-d23e0e3f-18f3-4d3d-a8a3-87af1ab48647.png)](https://github.com/OpenBanking-Brasil/onboarding_itp/raw/main/cartilhas/Cartilha_Onboarding_ITP_v10.pdf)
+[![Download Cartilha](https://user-images.githubusercontent.com/66042/162828193-d23e0e3f-18f3-4d3d-a8a3-87af1ab48647.png)](https://github.com/OpenBanking-Brasil/onboarding_itp/raw/main/cartilhas/Cartilha_Onboarding_ITP_v11.pdf)
 
-[(fazer download)](https://github.com/OpenBanking-Brasil/onboarding_itp/raw/main/cartilhas/Cartilha_Onboarding_ITP_v10.pdf)
+[(fazer download)](https://github.com/OpenBanking-Brasil/onboarding_itp/raw/main/cartilhas/Cartilha_Onboarding_ITP_v11.pdf)
