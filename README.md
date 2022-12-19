@@ -28,7 +28,8 @@ Lista de instituições que concluiram o processo de onboarding de Iniciadores d
 | <img src="https://user-images.githubusercontent.com/66042/196992530-11f79518-89a4-46fd-a000-59f9b30a049c.png" width=32/> |  Banco Mercantil do Brasil | 29/09/2022 | [#237](https://mailchi.mp/cddc41a08253/open-banking-informa-9180453) |
 | <img src="https://user-images.githubusercontent.com/66042/196992517-dc86a2b2-a462-4b7a-9c46-a5ef16314848.png" width=32/> |  Banco Bradesco | 04/10/2022 | [#249](https://mailchi.mp/991d6f7113a4/open-banking-informa-9181993) |
 | <img src="https://user-images.githubusercontent.com/66042/196992504-17570fc1-3376-4eba-ab4e-687163726222.png" width=32/> |  Banco XP | 13/10/2022 | [#254](https://mailchi.mp/412d3b0f89f2/open-banking-informa-9183401) |
-
+| <img src="https://user-images.githubusercontent.com/66042/208469069-86ec0514-c908-479a-93af-dc236bfff89a.png" width=32/> |  U4C | 05/12/2022 | [#280](https://mailchi.mp/043358f9f60e/open-banking-informa-9250341) |
+| <img src="https://user-images.githubusercontent.com/66042/208469052-3af65afc-c38b-4265-ab7e-ae4c9067b98a.png" width=32/> |  SICREDI | 05/12/2022 | [#280](https://mailchi.mp/043358f9f60e/open-banking-informa-9250341) |
 
 
 
