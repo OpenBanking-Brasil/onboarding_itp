@@ -30,6 +30,7 @@ Lista de instituições que concluiram o processo de onboarding de Iniciadores d
 | <img src="https://user-images.githubusercontent.com/66042/196992504-17570fc1-3376-4eba-ab4e-687163726222.png" width=32/> |  Banco XP | 13/10/2022 | [#254](https://mailchi.mp/412d3b0f89f2/open-banking-informa-9183401) |
 | <img src="https://user-images.githubusercontent.com/66042/208469069-86ec0514-c908-479a-93af-dc236bfff89a.png" width=32/> |  U4C | 05/12/2022 | [#280](https://mailchi.mp/043358f9f60e/open-banking-informa-9250341) |
 | <img src="https://user-images.githubusercontent.com/66042/208469052-3af65afc-c38b-4265-ab7e-ae4c9067b98a.png" width=32/> |  SICREDI | 05/12/2022 | [#280](https://mailchi.mp/043358f9f60e/open-banking-informa-9250341) |
+| <img src="https://user-images.githubusercontent.com/66042/218494522-0c4e5f2a-37f4-4210-ad59-b1c88dc0e465.png" width=32/> |  PicPay | 10/02/2023 | [#321](https://mailchi.mp/0b77b2718461/open-banking-informa-9292477) |
 
 
 
