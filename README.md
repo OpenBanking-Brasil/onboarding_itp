@@ -34,7 +34,7 @@ Lista de instituições que concluiram o processo de onboarding de Iniciadores d
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/10b71c81-6020-414b-997e-b2f4663c5ee6" width=32/> |  Unicred | 19/04/2023 | [#364](https://mailchi.mp/b77639e489dd/open-banking-informa-9331548) |
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/8713981b-2aeb-46ff-8982-5a0f2fe99be8" width=32/> |  EBANX | 24/05/2023 | [#387](https://mailchi.mp/c147b6874ba4/open-banking-informa-9342264?e=2eb7798bd9) |
 
-Total: 19 instituições
+Total: 19 instituições.
 
 
 ## Cartilha de _onboarding_
