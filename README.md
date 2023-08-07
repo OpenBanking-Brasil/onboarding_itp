@@ -35,7 +35,7 @@ Lista de instituições que concluiram o processo de onboarding de Iniciadores d
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/8713981b-2aeb-46ff-8982-5a0f2fe99be8" width=32/> |  EBANX | 24/05/2023 | [#387](https://mailchi.mp/c147b6874ba4/open-banking-informa-9342264?) |
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/4bd73e57-e5a8-4d24-aa34-7eab65e7a397" width=32/> |  BV | 12/06/2023 | [#398](https://mailchi.mp/682eafb47f8c/open-banking-informa-9357176) |
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/dbfe6197-966d-4687-8422-b6888b3d6874" width=32/> |  NuBank | 20/06/2023 | [#407](https://mailchi.mp/121f8776920c/open-banking-informa-9378540) |
-| <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/6c3cf30b-c385-4819-8f98-25b1517ccaf5" width=32/> |  Crystal BMC | 22/06/2023 | [#408](https://mailchi.mp/672d2f9eca4d/open-banking-informa-9378612) |
+| <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/d4131932-9ddc-42b6-af52-7effcacd3bb9" width=32/> |  Crystal BMC | 22/06/2023 | [#408](https://mailchi.mp/672d2f9eca4d/open-banking-informa-9378612) |
 
 
 Total: 22 instituições.
