@@ -38,9 +38,10 @@ Lista de instituições que concluiram o processo de onboarding de Iniciadores d
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/d4131932-9ddc-42b6-af52-7effcacd3bb9" width=32/> |  Crystal BMC | 22/06/2023 | [#408](https://mailchi.mp/672d2f9eca4d/open-banking-informa-9378612) |
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/77eb65e4-5e46-4805-80b2-fff3a6fb7fcb" width=32/> |  Santander | 30/08/2023 | [#446](https://mailchi.mp/884cde5e91f0/open-banking-informa-9399588) |
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/1076917b-1903-4fb8-8348-727d1ae63c57" width=32/> |  Iniciador | 06/09/2023 | [#449](https://mailchi.mp/c4b542463668/open-banking-informa-9400436) |
+| <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/82108909-ae9d-4d5c-9d12-429bffc6acf6" width=32/> |  Genial | 10/10/2023 | [#469](https://mailchi.mp/88afaa10b728/open-banking-informa-9415492) |
 
 
-Total: 24 instituições.
+Total: 25 instituições.
 
 
 ## Cartilha de _onboarding_
