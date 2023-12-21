@@ -10,7 +10,7 @@
 
 
 ## Lista de instituições publicadas
-Lista de instituições que concluiram o processo de onboarding de Iniciadores de Transação de Pagamento (ITP) segundo as regras expostas na [cartilha](https://github.com/OpenBanking-Brasil/onboarding_itp/raw/main/cartilhas/Cartilha_Onboarding_ITP_v11.pdf).
+Lista de instituições que concluiram o processo de onboarding de Iniciadores de Transação de Pagamento (ITP) segundo as regras expostas na [cartilha](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17378706/Guia+de+Onboarding+ITP).
 
 | | Instituição                            | Publicação  | Informa | 
 |-|----------------------------------------|-------------|---------|
@@ -39,15 +39,18 @@ Lista de instituições que concluiram o processo de onboarding de Iniciadores d
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/77eb65e4-5e46-4805-80b2-fff3a6fb7fcb" width=32/> |  Santander | 30/08/2023 | [#446](https://mailchi.mp/884cde5e91f0/open-banking-informa-9399588) |
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/1076917b-1903-4fb8-8348-727d1ae63c57" width=32/> |  Iniciador | 06/09/2023 | [#449](https://mailchi.mp/c4b542463668/open-banking-informa-9400436) |
 | <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/82108909-ae9d-4d5c-9d12-429bffc6acf6" width=32/> |  Genial | 10/10/2023 | [#469](https://mailchi.mp/88afaa10b728/open-banking-informa-9415492) |
+| <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/97ac6d20-0d00-40e0-af08-6bddb2d049fc" width=32/> |  Safra | 04/12/2023 | [#496](https://mailchi.mp/ca7c2434e5fb/open-banking-informa-9425808) |
+| <img src="https://github.com/OpenBanking-Brasil/onboarding_itp/assets/66042/7d7c0e44-ceab-4f1c-af5d-91670483efcb" width=32/> |  Belvo | 15/12/2023 | [#502](https://mailchi.mp/71eefaff58cb/open-banking-informa-9426912) |
 
 
-Total: 25 instituições.
+
+Total: 27 instituições.
 
 
 ## Cartilha de _onboarding_
 Para fazer com que sua instituição se torne uma ITP habilitada no Open Banking Brasil, baixe a Cartilha e siga o passo a passo:
 
-[![Download Cartilha](https://user-images.githubusercontent.com/66042/208492798-68f114c9-16cb-431f-baef-03d0f2e19b46.png)](https://github.com/OpenBanking-Brasil/onboarding_itp/raw/main/cartilhas/Cartilha_Onboarding_ITP_v11.pdf)
+[![Download Cartilha](https://user-images.githubusercontent.com/66042/208492798-68f114c9-16cb-431f-baef-03d0f2e19b46.png)](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17378706/Guia+de+Onboarding+ITP)
 
 
-[(fazer download)](https://github.com/OpenBanking-Brasil/onboarding_itp/raw/main/cartilhas/Cartilha_Onboarding_ITP_v11.pdf)
+[(fazer download)](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17378706/Guia+de+Onboarding+ITP)
